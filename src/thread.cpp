@@ -1,3 +1,8 @@
+/***********************************
+* Name: Dyllan Cummings
+* Assignment: Semaphore Implentation
+* File: thread.cpp
+*************************************/
 #include "thread.h"
 
 Thread::Thread(int num){

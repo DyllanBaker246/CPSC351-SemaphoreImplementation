@@ -1,3 +1,8 @@
+/***********************************
+* Name: Dyllan Cummings
+* Assignment: Semaphore Implentation
+* File: main.cpp
+*************************************/
 #include "semaphore.h"
 #include "thread.h"
 
